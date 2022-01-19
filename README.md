@@ -10,7 +10,7 @@
 ## 2022년
 
 ### 강의, 영상 자료 등
-1. 바닐라 JS로 크롬 앱 만들기 (Nomad-coder) / 2021.12.22 - 2022.01.09 / HTML, CSS, JS / 완료 (추가적인 개발 진행 중)
+1. 바닐라 JS로 크롬 앱 만들기 (Nomad-coder) / 2021.12.22 - 2022.01.09 / HTML, CSS, JS / 완료 https://0dot77.github.io/nomad-coder__momentum/ (no mobile)
 2. CS50 (Naver Boost course) / 2022.01.01 - 2022.01.09 / CS / 완료
 3. 바닐라 JS로 그림판 만들기 (Nomad-coder) / 2022.01.11 - / JS / 완료 / https://0dot77.github.io/nomad-coder__drawingboard/
 4. Create a Design System with Figma (freeCodeCamp) / 2022.01.12 - / Design / 진행 중
