@@ -16,6 +16,7 @@
 4. Create a Design System with Figma (freeCodeCamp) / 2022.01.12 - / Design / 진행 중
 5. Responsive Web Design (freeCodeCamp) / 2022.01.14 - / HTML, CSS / 진행 중
   - Challenge 1. Tribute Page / 2022.01.18 / 완료 / https://codepen.io/Soleil_Y/pen/WNZmRqv
+  - Challenge 2. Survey Form / 2022.01.19 / 완료 / https://codepen.io/Soleil_Y/pen/MWERZmj
 
 ### 책
 1. 📚 한 권으로 읽는 컴퓨터 구조와 프로그래밍 / 2022.01.05 - / CS / 진행 중
