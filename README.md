@@ -20,6 +20,7 @@
 
 ### 재밌는 미니 프로젝트
 1. Whac-a-mole in JavaScript / 2022.01.20 / JS / 완료 
+2. Flex Box Crash Course / 2022.01.21 / CSS / 완료
 
 ### 책
 1. 📚 한 권으로 읽는 컴퓨터 구조와 프로그래밍 / 2022.01.05 - / CS / 진행 중
