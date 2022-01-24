@@ -18,6 +18,7 @@
   - Challenge 1. Tribute Page / 2022.01.18 / 완료 / https://codepen.io/Soleil_Y/pen/WNZmRqv
   - Challenge 2. Survey Form / 2022.01.19 / 완료 / https://codepen.io/Soleil_Y/pen/MWERZmj
   - Challenge 3. Product Landing Page / 2022.01.23 / 완료 / https://codepen.io/Soleil_Y/pen/WNZWqyP
+  - Challenge 4. Technical Document Page / 2022.01.24 / 완료 / https://codepen.io/Soleil_Y/pen/GROKZye
 6. The Complete JavaScript Course 2022 (Udemy) / 2022.01.23 - / 진행 중 / 
 
 ### 재밌는 미니 프로젝트
