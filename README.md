@@ -14,11 +14,13 @@
 2. CS50 (Naver Boost course) / 2022.01.01 - 2022.01.09 / CS / 완료
 3. 바닐라 JS로 그림판 만들기 (Nomad-coder) / 2022.01.11 - / JS / 완료 / https://0dot77.github.io/nomad-coder__drawingboard/
 4. Create a Design System with Figma (freeCodeCamp) / 2022.01.12 - / Design / 진행 중
-5. Responsive Web Design (freeCodeCamp) / 2022.01.14 - / HTML, CSS / 진행 중
+5. Responsive Web Design (freeCodeCamp) / 2022.01.14 - / HTML, CSS / 완료
   - Challenge 1. Tribute Page / 2022.01.18 / 완료 / https://codepen.io/Soleil_Y/pen/WNZmRqv
   - Challenge 2. Survey Form / 2022.01.19 / 완료 / https://codepen.io/Soleil_Y/pen/MWERZmj
   - Challenge 3. Product Landing Page / 2022.01.23 / 완료 / https://codepen.io/Soleil_Y/pen/WNZWqyP
   - Challenge 4. Technical Document Page / 2022.01.24 / 완료 / https://codepen.io/Soleil_Y/pen/GROKZye
+  - Challenge 5. Personal Portfolio Webpage / 2022.01.26 / 완료 / https://codepen.io/Soleil_Y/pen/KKyKKPg?editors=1100
+  - **Certification** https://www.freecodecamp.org/certification/0dot77/responsive-web-design
 6. The Complete JavaScript Course 2022 (Udemy) / 2022.01.23 - / 진행 중 / 
 
 ### 재밌는 미니 프로젝트
