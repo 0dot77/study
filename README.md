@@ -9,7 +9,7 @@
 
 ## 2022년
 
-### 강의, 영상 자료 등
+### 개발 강의 및 영상 자료
 1. 바닐라 JS로 크롬 앱 만들기 (Nomad-coder) / 2021.12.22 - 2022.01.09 / HTML, CSS, JS / 완료 https://0dot77.github.io/nomad-coder__momentum/ (no mobile)
 2. CS50 (Naver Boost course) / 2022.01.01 - 2022.01.09 / CS / 완료
 3. 바닐라 JS로 그림판 만들기 (Nomad-coder) / 2022.01.11 - / JS / 완료 / https://0dot77.github.io/nomad-coder__drawingboard/
@@ -23,6 +23,9 @@
 5. The Complete JavaScript Course 2022 (Udemy) / 2022.01.23 - / JS / 진행 중
 6. JavaScript Algorithms and Data Structures (freeCodeCamp) / 2022.01.27 - / JS / 진행 중
 7. 바닐라 JS Challenge (Nomad-coder) / 2022.02.07 - / JS / 진행 중
+
+### 창작과 관련된 강의 및 영상 자료
+1. Three.js Journey / 2022.02.11 / JS / 진행 중
 
 ### 재밌는 미니 프로젝트
 1. Whac-a-mole in JavaScript / 2022.01.20 / JS / 완료 
