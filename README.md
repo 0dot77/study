@@ -25,7 +25,8 @@
 7. 바닐라 JS Challenge (Nomad-coder) / 2022.02.07 - / JS / 진행 중
 
 ### 창작과 관련된 강의 및 영상 자료
-1. Three.js Journey / 2022.02.11 / JS / 진행 중
+1. Three.js Journey / 2022.02.11 - / JS / 진행 중
+2. Blender 3.0 Beginner Modelling Tutorial / 2022.02.01 - / 3D / 진행 중
 
 ### 재밌는 미니 프로젝트
 1. Whac-a-mole in JavaScript / 2022.01.20 / JS / 완료 
