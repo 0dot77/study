@@ -22,7 +22,7 @@
   - **Certification** https://www.freecodecamp.org/certification/0dot77/responsive-web-design
 5. The Complete JavaScript Course 2022 (Udemy) / 2022.01.23 - / JS / 진행 중
 6. JavaScript Algorithms and Data Structures (freeCodeCamp) / 2022.01.27 - / JS / 진행 중
-7. 바닐라 JS Challenge (Nomad-coder) / 2022.02.07 - / JS / 진행 중
+7. 바닐라 JS Challenge (Nomad-coder) / 2022.02.07 - / JS / 2022.02.21 / 완료 / https://0dot77.github.io/Challenge/
 
 ### 창작과 관련된 강의 및 영상 자료
 1. Three.js Journey / 2022.02.11 - / JS / 진행 중
