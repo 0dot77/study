@@ -24,6 +24,7 @@
 6. JavaScript Algorithms and Data Structures (freeCodeCamp) / 2022.01.27 - / JS / 진행 중
 7. 바닐라 JS Challenge (Nomad-coder) / 2022.02.07 - 2022.02.21 / JS / 완료 / https://0dot77.github.io/Challenge/
 8. Css Layout MasterClass (Nomad-coder) / 2022.02.21 - / CSS, SCSS / 진행 중
+9. 만들면서 배우는 리액트 : 기초 (Inflearn) / 2022.02.27 - / JS, React / 진행 중
 
 ### 창작과 관련된 강의 및 영상 자료
 1. Three.js Journey / 2022.02.11 - / JS / 진행 중
