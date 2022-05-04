@@ -20,12 +20,12 @@
   - Challenge 4. Technical Document Page / 2022.01.24 / 완료 / https://codepen.io/Soleil_Y/pen/GROKZye
   - Challenge 5. Personal Portfolio Webpage / 2022.01.26 / 완료 / https://codepen.io/Soleil_Y/pen/KKyKKPg?editors=1100
   - **Certification** https://www.freecodecamp.org/certification/0dot77/responsive-web-design
-5. The Complete JavaScript Course 2022 (Udemy) / 2022.01.23 - / JS / 진행 중
-6. JavaScript Algorithms and Data Structures (freeCodeCamp) / 2022.01.27 - / JS / 진행 중
+5. The Complete JavaScript Course 2022 (Udemy) / 2022.01.23 - / JS / 보류
+6. JavaScript Algorithms and Data Structures (freeCodeCamp) / 2022.01.27 - 2022.04.29 / JS / 완료
 7. 바닐라 JS Challenge (Nomad-coder) / 2022.02.07 - 2022.02.21 / JS / 완료 / https://0dot77.github.io/Challenge/
 8. Css Layout MasterClass (Nomad-coder) / 2022.02.21 - 2022.03.07 / CSS, SCSS / 완료
-9. 만들면서 배우는 리액트 : 기초 (Inflearn) / 2022.02.27 - / JS, React / 진행 중
-10. React JS로 영화 웹 서비스 만들기 (Nomad Coder) / 2022.03.20 - / JS / 진행 중
+9. React JS로 영화 웹 서비스 만들기 (Nomad Coder) / 2022.03.20 - 2022.04.03 / JS, React / 완료
+10. React Master Class (Nomad Coder) / 2022.04.20 - / Typescript, React / 진행 중
 
 ### 창작과 관련된 강의 및 영상 자료
 1. Three.js Journey / 2022.02.11 - / JS / 진행 중
@@ -35,10 +35,5 @@
 2. Flex Box Crash Course / 2022.01.21 / CSS / 완료
 3. Data Calculator / 2022.02.18 / JS / 완료
 4. Crypto Dashboard / 2022.04.04 / React / 완료
-5. Meme Generator / 2022.04.04 / React / 진행 중
-6. Tinder Clone / 2022.04.06 / React / 진행 중 (node 학습 후 다시)
-
-### 책
-1. 📚 한 권으로 읽는 컴퓨터 구조와 프로그래밍 / 2022.01.05 - / CS / 진행 중
-2. 📚 HTTP 완벽 가이드 / 2022.01.15 - / WEB, HTTP / 진행 중
-3. 📚 모던 자바스크립트 / 2022.01.15 - / JAVASCRIPT / 진행 중
+5. Meme Generator / 2022.04.04 / React / 완료
+6. Tinder Clone / 2022.04.06 / React / 완료
